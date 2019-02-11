@@ -1,8 +1,8 @@
 # Introdução
 
-Olá, meu nome é Anderson Oliveira (**prJy**) e esse conteúdo tem como objetivo te capacitar para utilizar a linguagem de programação Python para desenvolver seus projetos.
-Vamos tratar de diversos tópicos ao decorrer do curso te preparando para praticamente todas as situações e te dando uma base de aprendizado.
-Qualquer dúvida estou online de segunda a sexta entre 22 e 23:20 para tirar dúvidas em: www.twitch.tv/projectly.
+Olá, meu nome é Anderson Oliveira (**prJy**) e esse conteúdo tem como objetivo te capacitar para utilizar a linguagem de programação Python para desenvolver seus projetos.  
+Vamos tratar de diversos tópicos ao decorrer do curso te preparando para praticamente todas as situações e te dando uma base de aprendizado.  
+Qualquer dúvida estou online de segunda a sexta entre 22 e 23:20 para tirar dúvidas em: www.twitch.tv/projectly.  
 Seja muito bem-vindo e espero que aproveite o curso.
 
 ## Um pouco sobre o Python:
