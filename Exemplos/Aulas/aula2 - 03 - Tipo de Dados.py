@@ -5,7 +5,7 @@
 meuPrimeiroInteiro = 1
 print(meuPrimeiroInteiro)
 
-#Ponto futuante(decimal) (Float) float
+#Ponto flutuante(decimal) (Float) float
 meuPrimeiroFloat = 110.99
 print(meuPrimeiroFloat)
 
