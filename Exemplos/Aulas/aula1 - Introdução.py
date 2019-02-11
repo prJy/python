@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 print("Olá mundo")
 print("Minha jornada de jovem padawan começa agora")
-print("Vou ser um Jedi")
+print("Vou me tornar um Jedi")
 #Olá eu sou um comentário
 #Eu sou outro comentário
 """ Eu sou um comentário de varias linhas
